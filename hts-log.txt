@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Oct 2022 06:11:01 at https://www.economicshelp.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.economicshelp.org/ -O1 "C:\10Intership\econic sector" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:11:56	Error: 	"Forbidden" (403) at link https://www.economicshelp.org/xmlrpc.php?rsd (from https://www.economicshelp.org/)
+06:11:56	Error: 	"Forbidden" (403) at link https://www.economicshelp.org/xmlrpc.php (from https://www.economicshelp.org/)
+06:13:45	Error: 	Exit requested by shell or user
+06:13:46	Warning: 	Found for https://www.economicshelp.org/?add-to-cart=2295
+06:13:46	Warning: 	File has moved from https://www.economicshelp.org/?add-to-cart=2295 to https://www.economicshelp.org/cart/
+06:13:46	Warning: 	Found for https://www.economicshelp.org/?add-to-cart=2279
+06:13:46	Warning: 	File has moved from https://www.economicshelp.org/?add-to-cart=2279 to https://www.economicshelp.org/cart/
+06:13:47	Warning: 	Found for https://www.economicshelp.org/?add-to-cart=2297
+06:13:47	Warning: 	File has moved from https://www.economicshelp.org/?add-to-cart=2297 to https://www.economicshelp.org/cart/
+06:13:47	Warning: 	Found for https://www.economicshelp.org/?add-to-cart=13214
+06:13:47	Warning: 	File has moved from https://www.economicshelp.org/?add-to-cart=13214 to https://www.economicshelp.org/cart/
+06:13:47	Warning: 	Found for https://www.economicshelp.org/?add-to-cart=132749
+06:13:47	Warning: 	File has moved from https://www.economicshelp.org/?add-to-cart=132749 to https://www.economicshelp.org/cart/
+06:13:48	Error: 	"Forbidden" (403) at link https://www.economicshelp.org/trade/ (from https://www.economicshelp.org/)
+06:13:55	Warning: 	Moved Permanently for https://www.economicshelp.org/?p=2431
+06:13:55	Warning: 	File has moved from https://www.economicshelp.org/?p=2431 to https://www.economicshelp.org/cart/
+06:13:59	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=2295
+06:13:59	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=2295 to https://www.economicshelp.org/cart/
+06:13:59	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=2279
+06:13:59	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=2279 to https://www.economicshelp.org/cart/
+06:13:59	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=2287
+06:13:59	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=2287 to https://www.economicshelp.org/cart/
+06:13:59	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=13214
+06:13:59	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=13214 to https://www.economicshelp.org/cart/
+06:14:00	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=14133
+06:14:00	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=14133 to https://www.economicshelp.org/cart/
+06:14:00	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=132749
+06:14:00	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=132749 to https://www.economicshelp.org/cart/
+06:14:00	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=2297
+06:14:00	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=2297 to https://www.economicshelp.org/cart/
+06:14:00	Warning: 	Found for https://www.economicshelp.org/shop/?add-to-cart=3396
+06:14:00	Warning: 	File has moved from https://www.economicshelp.org/shop/?add-to-cart=3396 to https://www.economicshelp.org/cart/
+06:14:00	Warning: 	Moved Permanently for https://www.economicshelp.org/?p=1090
+06:14:00	Warning: 	File has moved from https://www.economicshelp.org/?p=1090 to https://www.economicshelp.org/economics-a-z/
+06:14:13	Error: 	Exit requested by shell or user
+06:14:13	Error: 	"" (-1) at link https://www.economicshelp.org/blog/glossary/bank-england-interest-rates/ (from https://www.economicshelp.org/economics-a-z/)
+06:14:13	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 11 seconds : 680 links scanned, 344 files written (30643971 bytes overall) [7588952 bytes received at 39732 bytes/sec], 29051223 bytes transferred using HTTP compression in 287 files, ratio 19%, 34.8 requests per connection
+(7 errors, 30 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.economicshelp.org	TRUE	/	FALSE	1999999999	wp_woocommerce_session_75f60eb3d351cefec4903e8f846915e5	t_5e96d8a0afe342ac03b742054e3b32%7C%7C1665925880%7C%7C1665922280%7C%7C37f91056c8492b1e3a4bd3db085000e3
+www.economicshelp.org	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.economicshelp.org	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	170919590a835a47f598513bbd146c6f
+
